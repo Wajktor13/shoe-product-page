@@ -1,6 +1,7 @@
 body {
   min-width: 420px;
   font-family: sans-serif;
+  margin: 0;
 }
 
 main {
@@ -25,8 +26,7 @@ h3 {
   align-items: center;
   width: 900px;
   height: 600px;
-  margin: auto;
-  margin-top: 100px;
+  margin: 100px auto 390px auto;
 }
 
 .product-demonstration {
