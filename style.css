@@ -98,7 +98,7 @@ h3 {
   height: 420px;
   transform: rotate(-22deg);
   position: relative;
-  left: -180px;
+  left: -185px;
   background-size: cover;
   transition: background-image 0.8s, transform 1.2s, scale 1s;
 }
@@ -434,7 +434,7 @@ h3 {
   .product-card {
     margin-top: 20px;
     flex-direction: column;
-    width: 85%;
+    width: 90%;
   }
 
   .product-demonstration {
@@ -445,14 +445,14 @@ h3 {
   .shoe-img {
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: 20%;
+    background-position: center;
     width: 100%;
     transform: rotate(0);
-    left: 0;
+    left: -18px;
   }
 
   .shoe-img:hover {
-    scale: 1.1;
+    scale: 1.15;
   }
 
   .nike-background-writing {
