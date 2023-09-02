@@ -465,3 +465,17 @@ h3 {
     box-shadow: 0 10px 20px 5px rgb(168, 166, 166);
   }
 }
+
+@media (pointer:coarse) {
+  .share-div:hover,
+  .add-to-cart-btn:hover,
+  .logo-img:hover {
+    transform: scale(1);
+  }
+
+  .share-div:active,
+  .add-to-cart-btn:active,
+  .logo-img:active {
+    transform: scale(0.8);
+  }
+}
