@@ -285,7 +285,7 @@ h3 {
 }
 
 .product-card:has(#color-select-radio-btn-blue:checked) .shoe-img {
-  background-image: url("./images/shoes/blue.png");
+  background-image: url("./images/shoes/blue.webp");
 }
 
 .gradient-blue {
@@ -317,7 +317,7 @@ h3 {
 }
 
 .product-card:has(#color-select-radio-btn-red:checked) .shoe-img {
-  background-image: url("./images/shoes/red.png");
+  background-image: url("./images/shoes/red.webp");
 }
 
 .gradient-red {
@@ -349,7 +349,7 @@ h3 {
 }
 
 .product-card:has(#color-select-radio-btn-green:checked) .shoe-img {
-  background-image: url("./images/shoes/green.png");
+  background-image: url("./images/shoes/green.webp");
 }
 
 .gradient-green {
@@ -381,7 +381,7 @@ h3 {
 }
 
 .product-card:has(#color-select-radio-btn-orange:checked) .shoe-img {
-  background-image: url("./images/shoes/orange.png");
+  background-image: url("./images/shoes/orange.webp");
 }
 
 .gradient-orange {
@@ -414,7 +414,7 @@ h3 {
 }
 
 .product-card:has(#color-select-radio-btn-black:checked) .shoe-img {
-  background-image: url("./images/shoes/black.png");
+  background-image: url("./images/shoes/black.webp");
 }
 
 .gradient-black {
